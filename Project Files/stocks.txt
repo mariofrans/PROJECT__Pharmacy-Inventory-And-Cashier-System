@@ -1,0 +1,10 @@
+Panadol,5000,100
+Face Mask(50Pcs),50000,100
+Hand Sanitiser,20000,100
+Tolak Angin,20000,100
+Counterpain,30000,100
+Enervon-C,25000,100
+Thermometer,100000,10
+Redoxon,40000,100
+Hansaplast,10000,100
+Mineral Water,3000,100
